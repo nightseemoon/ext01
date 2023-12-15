@@ -1,0 +1,8 @@
+/* /src/output.css */
+@import url(css/tailwindcss.css);
+body {
+  a {
+    font-size: 99px;
+    color: rgb(13, 24, 168);
+  }
+}
